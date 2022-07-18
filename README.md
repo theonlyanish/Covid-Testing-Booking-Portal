@@ -1,7 +1,11 @@
 # Covid-Testing-Booking-Portal
 
-Functionalities
+Technologies Used - 
+1) Language - Java
+2) Structure - MVC
+3) Framework - Maven
 
+Functionalities - 
 1) Customer
 - Can book test at said center for said time
 - Can edit booking and change venue
