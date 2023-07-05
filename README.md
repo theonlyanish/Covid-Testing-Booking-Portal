@@ -1,4 +1,5 @@
 # Covid-Testing-Booking-Portal
+Terminal based application
 
 Technologies Used - 
 1) Language - Java
